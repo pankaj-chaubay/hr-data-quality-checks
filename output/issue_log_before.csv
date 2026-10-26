@@ -1,0 +1,899 @@
+EmpID,rule_id,rule,severity,value
+10011,R01,Required field missing (manager ID),2 major,Webster Butler
+10071,R01,Required field missing (manager ID),2 major,Webster Butler
+10077,R01,Required field missing (manager ID),2 major,Webster Butler
+10136,R01,Required field missing (manager ID),2 major,Webster Butler
+10154,R01,Required field missing (manager ID),2 major,Webster Butler
+10184,R01,Required field missing (manager ID),2 major,Webster Butler
+10214,R01,Required field missing (manager ID),2 major,Webster Butler
+10277,R01,Required field missing (manager ID),2 major,Webster Butler
+10001,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [M ]
+10002,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10003,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10004,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10005,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Software Engineering] [Software Engineer] [M ]
+10007,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10009,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10011,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10012,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Data Analyst] [M ]
+10013,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10014,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10015,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [IT Director] [M ]
+10017,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [F]
+10018,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10019,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Director of Operations] [M ]
+10020,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10021,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10022,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10023,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10024,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Software Engineering] [Software Engineer] [M ]
+10025,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10026,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10027,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10028,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [IT Manager - Support] [M ]
+10029,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10030,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10031,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10032,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10033,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10034,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10035,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10036,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10037,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10038,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Admin Offices] [Accountant I] [M ]
+10041,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10044,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Network Engineer] [M ]
+10045,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Network Engineer] [M ]
+10046,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10047,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10048,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10049,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10050,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10051,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10052,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10053,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10054,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10055,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10056,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10057,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10058,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10059,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10060,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10061,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10062,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10063,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10064,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10065,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10066,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10067,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10068,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10069,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10070,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10071,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10072,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10073,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10074,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10075,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10076,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10077,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10078,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10079,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Senior BI Developer] [M ]
+10083,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Sr. Network Engineer] [M ]
+10084,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Sr. DBA] [M ]
+10087,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10088,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10090,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [F]
+10091,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10092,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [M ]
+10093,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10094,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10095,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10096,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10097,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10098,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [M ]
+10100,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10102,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Software Engineering] [Software Engineer] [M ]
+10103,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10104,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10105,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [F]
+10106,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10107,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10108,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [BI Director] [M ]
+10109,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10111,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10113,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Sr. Network Engineer] [M ]
+10114,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10115,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10116,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [M ]
+10117,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10118,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Database Administrator] [M ]
+10120,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10122,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10123,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10125,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10128,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10129,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10130,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [F]
+10131,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Software Engineering] [Software Engineer] [M ]
+10132,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10134,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Admin Offices] [Shared Services Manager] [M ]
+10135,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10136,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10137,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10138,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10139,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10140,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10141,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10143,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10144,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [M ]
+10145,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10146,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10147,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Admin Offices] [Accountant I] [M ]
+10148,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10150,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Software Engineering] [Software Engineering Manager] [M ]
+10152,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10154,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10157,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10158,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [F]
+10159,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10160,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10163,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10164,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10165,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10166,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10167,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10168,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10169,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10170,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10171,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10172,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Senior BI Developer] [M ]
+10173,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [BI Developer] [M ]
+10174,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10175,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [M ]
+10176,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10177,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10178,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Data Analyst] [M ]
+10180,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Sr. Network Engineer] [M ]
+10181,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10183,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10184,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10185,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10186,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10187,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10189,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10190,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10191,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10192,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10193,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Data Analyst] [M ]
+10195,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10196,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10197,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [BI Developer] [M ]
+10198,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [IT Manager - DB] [M ]
+10199,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Enterprise Architect] [M ]
+10200,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10201,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10202,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10203,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10204,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10206,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10207,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10208,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10209,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10210,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10211,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10213,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10214,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10215,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10216,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10217,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10218,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10219,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10220,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [IT Support] [M ]
+10221,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10222,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [IT Manager - DB] [M ]
+10223,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10224,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10225,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10226,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10227,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10228,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [IT Support] [M ]
+10229,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Data Analyst ] [M ]
+10230,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10231,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10233,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10234,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [BI Developer] [M ]
+10235,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10236,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10237,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10240,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10242,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10243,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10247,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10248,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10249,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10250,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [IT Support] [M ]
+10251,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10252,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10253,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10254,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10256,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10257,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10258,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10259,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Data Analyst] [M ]
+10260,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10261,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10262,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10263,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10264,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10265,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10266,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10267,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10268,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10269,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10270,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10271,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10274,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [F]
+10275,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10276,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10277,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10278,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10279,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10280,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10281,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10282,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [M ]
+10283,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10284,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10285,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10286,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10287,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10288,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [IT Manager - Infra] [M ]
+10289,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Manager] [M ]
+10291,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Sales Manager] [M ]
+10292,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10293,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10294,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10295,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10296,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10297,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10298,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10299,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [F]
+10300,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician II] [M ]
+10301,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10302,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10303,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [F]
+10305,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10306,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10307,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Sales] [Area Sales Manager] [M ]
+10308,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10309,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[IT/IS] [Network Engineer] [M ]
+10310,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10311,R02,Leading or trailing spaces in Department / Position / Sex,2 major,[Production       ] [Production Technician I] [M ]
+10001,R05,Birth date has a two-digit year,2 major,08/09/83
+10002,R05,Birth date has a two-digit year,2 major,05/22/77
+10003,R05,Birth date has a two-digit year,2 major,09/01/89
+10004,R05,Birth date has a two-digit year,2 major,02/14/73
+10005,R05,Birth date has a two-digit year,2 major,02/20/79
+10006,R05,Birth date has a two-digit year,2 major,11/08/88
+10007,R05,Birth date has a two-digit year,2 major,05/02/74
+10008,R05,Birth date has a two-digit year,2 major,10/05/88
+10009,R05,Birth date has a two-digit year,2 major,11/06/86
+10010,R05,Birth date has a two-digit year,2 major,08/30/79
+10011,R05,Birth date has a two-digit year,2 major,01/12/73
+10012,R05,Birth date has a two-digit year,2 major,07/04/88
+10013,R05,Birth date has a two-digit year,2 major,01/15/68
+10014,R05,Birth date has a two-digit year,2 major,01/31/87
+10015,R05,Birth date has a two-digit year,2 major,07/05/80
+10016,R05,Birth date has a two-digit year,2 major,09/16/84
+10017,R05,Birth date has a two-digit year,2 major,10/26/81
+10018,R05,Birth date has a two-digit year,2 major,05/08/80
+10019,R05,Birth date has a two-digit year,2 major,03/19/83
+10020,R05,Birth date has a two-digit year,2 major,01/28/85
+10021,R05,Birth date has a two-digit year,2 major,12/11/76
+10022,R05,Birth date has a two-digit year,2 major,06/03/86
+10023,R05,Birth date has a two-digit year,2 major,04/17/66
+10024,R05,Birth date has a two-digit year,2 major,05/06/83
+10025,R05,Birth date has a two-digit year,2 major,04/24/70
+10026,R05,Birth date has a two-digit year,2 major,07/10/83
+10027,R05,Birth date has a two-digit year,2 major,10/30/63
+10028,R05,Birth date has a two-digit year,2 major,07/09/70
+10029,R05,Birth date has a two-digit year,2 major,08/26/80
+10030,R05,Birth date has a two-digit year,2 major,03/26/73
+10031,R05,Birth date has a two-digit year,2 major,09/29/69
+10032,R05,Birth date has a two-digit year,2 major,08/17/86
+10033,R05,Birth date has a two-digit year,2 major,11/07/58
+10034,R05,Birth date has a two-digit year,2 major,08/19/59
+10035,R05,Birth date has a two-digit year,2 major,03/28/82
+10036,R05,Birth date has a two-digit year,2 major,09/08/69
+10037,R05,Birth date has a two-digit year,2 major,06/03/67
+10038,R05,Birth date has a two-digit year,2 major,04/26/84
+10039,R05,Birth date has a two-digit year,2 major,05/19/88
+10040,R05,Birth date has a two-digit year,2 major,05/15/63
+10041,R05,Birth date has a two-digit year,2 major,05/19/82
+10042,R05,Birth date has a two-digit year,2 major,03/31/89
+10043,R05,Birth date has a two-digit year,2 major,02/24/79
+10044,R05,Birth date has a two-digit year,2 major,05/05/88
+10045,R05,Birth date has a two-digit year,2 major,03/31/69
+10046,R05,Birth date has a two-digit year,2 major,12/22/70
+10047,R05,Birth date has a two-digit year,2 major,01/07/74
+10048,R05,Birth date has a two-digit year,2 major,09/09/65
+10049,R05,Birth date has a two-digit year,2 major,03/16/81
+10050,R05,Birth date has a two-digit year,2 major,03/06/88
+10051,R05,Birth date has a two-digit year,2 major,05/21/79
+10052,R05,Birth date has a two-digit year,2 major,12/09/86
+10053,R05,Birth date has a two-digit year,2 major,11/22/77
+10054,R05,Birth date has a two-digit year,2 major,12/05/74
+10055,R05,Birth date has a two-digit year,2 major,10/27/70
+10056,R05,Birth date has a two-digit year,2 major,11/05/78
+10057,R05,Birth date has a two-digit year,2 major,10/22/75
+10058,R05,Birth date has a two-digit year,2 major,07/22/82
+10059,R05,Birth date has a two-digit year,2 major,05/21/83
+10060,R05,Birth date has a two-digit year,2 major,04/13/64
+10061,R05,Birth date has a two-digit year,2 major,10/18/81
+10062,R05,Birth date has a two-digit year,2 major,02/18/83
+10063,R05,Birth date has a two-digit year,2 major,04/08/77
+10064,R05,Birth date has a two-digit year,2 major,09/05/91
+10065,R05,Birth date has a two-digit year,2 major,03/18/87
+10066,R05,Birth date has a two-digit year,2 major,07/15/77
+10067,R05,Birth date has a two-digit year,2 major,01/02/51
+10068,R05,Birth date has a two-digit year,2 major,09/22/76
+10069,R05,Birth date has a two-digit year,2 major,09/08/89
+10070,R05,Birth date has a two-digit year,2 major,10/31/77
+10071,R05,Birth date has a two-digit year,2 major,03/10/75
+10072,R05,Birth date has a two-digit year,2 major,05/24/87
+10073,R05,Birth date has a two-digit year,2 major,12/10/86
+10074,R05,Birth date has a two-digit year,2 major,08/10/88
+10075,R05,Birth date has a two-digit year,2 major,08/27/72
+10076,R05,Birth date has a two-digit year,2 major,05/21/87
+10077,R05,Birth date has a two-digit year,2 major,08/25/76
+10078,R05,Birth date has a two-digit year,2 major,02/11/52
+10079,R05,Birth date has a two-digit year,2 major,04/25/70
+10080,R05,Birth date has a two-digit year,2 major,04/16/79
+10081,R05,Birth date has a two-digit year,2 major,04/04/87
+10082,R05,Birth date has a two-digit year,2 major,06/06/86
+10083,R05,Birth date has a two-digit year,2 major,09/09/65
+10084,R05,Birth date has a two-digit year,2 major,05/05/75
+10085,R05,Birth date has a two-digit year,2 major,04/05/87
+10086,R05,Birth date has a two-digit year,2 major,11/21/72
+10087,R05,Birth date has a two-digit year,2 major,01/17/79
+10088,R05,Birth date has a two-digit year,2 major,09/27/88
+10089,R05,Birth date has a two-digit year,2 major,09/21/54
+10090,R05,Birth date has a two-digit year,2 major,09/30/75
+10091,R05,Birth date has a two-digit year,2 major,08/24/85
+10092,R05,Birth date has a two-digit year,2 major,07/01/72
+10093,R05,Birth date has a two-digit year,2 major,10/01/81
+10094,R05,Birth date has a two-digit year,2 major,03/31/77
+10095,R05,Birth date has a two-digit year,2 major,11/25/87
+10096,R05,Birth date has a two-digit year,2 major,12/26/76
+10097,R05,Birth date has a two-digit year,2 major,08/18/52
+10098,R05,Birth date has a two-digit year,2 major,07/11/81
+10099,R05,Birth date has a two-digit year,2 major,04/19/90
+10100,R05,Birth date has a two-digit year,2 major,02/25/51
+10101,R05,Birth date has a two-digit year,2 major,04/16/81
+10102,R05,Birth date has a two-digit year,2 major,06/14/83
+10103,R05,Birth date has a two-digit year,2 major,12/27/88
+10104,R05,Birth date has a two-digit year,2 major,11/23/85
+10105,R05,Birth date has a two-digit year,2 major,11/28/73
+10106,R05,Birth date has a two-digit year,2 major,07/25/79
+10107,R05,Birth date has a two-digit year,2 major,03/02/80
+10108,R05,Birth date has a two-digit year,2 major,02/09/72
+10109,R05,Birth date has a two-digit year,2 major,02/09/69
+10110,R05,Birth date has a two-digit year,2 major,11/07/87
+10111,R05,Birth date has a two-digit year,2 major,09/15/85
+10112,R05,Birth date has a two-digit year,2 major,02/21/84
+10113,R05,Birth date has a two-digit year,2 major,04/23/86
+10114,R05,Birth date has a two-digit year,2 major,02/11/70
+10115,R05,Birth date has a two-digit year,2 major,02/02/83
+10116,R05,Birth date has a two-digit year,2 major,08/10/81
+10117,R05,Birth date has a two-digit year,2 major,10/07/82
+10118,R05,Birth date has a two-digit year,2 major,08/07/86
+10119,R05,Birth date has a two-digit year,2 major,03/12/73
+10120,R05,Birth date has a two-digit year,2 major,12/01/74
+10121,R05,Birth date has a two-digit year,2 major,05/11/90
+10122,R05,Birth date has a two-digit year,2 major,05/15/70
+10123,R05,Birth date has a two-digit year,2 major,06/05/67
+10124,R05,Birth date has a two-digit year,2 major,08/29/88
+10125,R05,Birth date has a two-digit year,2 major,03/23/77
+10126,R05,Birth date has a two-digit year,2 major,07/24/86
+10127,R05,Birth date has a two-digit year,2 major,05/02/78
+10128,R05,Birth date has a two-digit year,2 major,05/30/68
+10129,R05,Birth date has a two-digit year,2 major,01/04/84
+10130,R05,Birth date has a two-digit year,2 major,05/09/77
+10131,R05,Birth date has a two-digit year,2 major,11/06/84
+10132,R05,Birth date has a two-digit year,2 major,04/10/87
+10133,R05,Birth date has a two-digit year,2 major,07/18/88
+10134,R05,Birth date has a two-digit year,2 major,06/10/84
+10135,R05,Birth date has a two-digit year,2 major,05/11/85
+10136,R05,Birth date has a two-digit year,2 major,09/27/87
+10137,R05,Birth date has a two-digit year,2 major,03/19/79
+10138,R05,Birth date has a two-digit year,2 major,04/17/86
+10139,R05,Birth date has a two-digit year,2 major,01/28/91
+10140,R05,Birth date has a two-digit year,2 major,10/12/54
+10141,R05,Birth date has a two-digit year,2 major,05/09/65
+10142,R05,Birth date has a two-digit year,2 major,07/10/71
+10143,R05,Birth date has a two-digit year,2 major,09/14/79
+10144,R05,Birth date has a two-digit year,2 major,10/10/68
+10145,R05,Birth date has a two-digit year,2 major,01/07/87
+10146,R05,Birth date has a two-digit year,2 major,05/24/53
+10147,R05,Birth date has a two-digit year,2 major,09/01/86
+10148,R05,Birth date has a two-digit year,2 major,05/01/79
+10149,R05,Birth date has a two-digit year,2 major,05/27/73
+10150,R05,Birth date has a two-digit year,2 major,11/22/66
+10151,R05,Birth date has a two-digit year,2 major,04/04/79
+10152,R05,Birth date has a two-digit year,2 major,12/31/84
+10153,R05,Birth date has a two-digit year,2 major,06/14/87
+10154,R05,Birth date has a two-digit year,2 major,08/24/83
+10155,R05,Birth date has a two-digit year,2 major,07/05/79
+10156,R05,Birth date has a two-digit year,2 major,11/07/86
+10157,R05,Birth date has a two-digit year,2 major,02/02/65
+10158,R05,Birth date has a two-digit year,2 major,03/28/78
+10159,R05,Birth date has a two-digit year,2 major,10/01/90
+10160,R05,Birth date has a two-digit year,2 major,09/22/76
+10161,R05,Birth date has a two-digit year,2 major,05/07/65
+10162,R05,Birth date has a two-digit year,2 major,10/11/81
+10163,R05,Birth date has a two-digit year,2 major,11/08/83
+10164,R05,Birth date has a two-digit year,2 major,11/23/81
+10165,R05,Birth date has a two-digit year,2 major,02/24/69
+10166,R05,Birth date has a two-digit year,2 major,12/08/73
+10167,R05,Birth date has a two-digit year,2 major,09/14/88
+10168,R05,Birth date has a two-digit year,2 major,05/31/88
+10169,R05,Birth date has a two-digit year,2 major,07/10/88
+10170,R05,Birth date has a two-digit year,2 major,10/08/70
+10171,R05,Birth date has a two-digit year,2 major,07/20/86
+10172,R05,Birth date has a two-digit year,2 major,07/08/81
+10173,R05,Birth date has a two-digit year,2 major,10/24/87
+10174,R05,Birth date has a two-digit year,2 major,04/20/85
+10175,R05,Birth date has a two-digit year,2 major,03/10/70
+10176,R05,Birth date has a two-digit year,2 major,02/02/80
+10177,R05,Birth date has a two-digit year,2 major,08/24/90
+10178,R05,Birth date has a two-digit year,2 major,02/08/70
+10179,R05,Birth date has a two-digit year,2 major,04/14/81
+10180,R05,Birth date has a two-digit year,2 major,02/09/83
+10181,R05,Birth date has a two-digit year,2 major,08/19/77
+10182,R05,Birth date has a two-digit year,2 major,09/16/85
+10183,R05,Birth date has a two-digit year,2 major,04/06/85
+10184,R05,Birth date has a two-digit year,2 major,07/28/83
+10185,R05,Birth date has a two-digit year,2 major,03/28/83
+10186,R05,Birth date has a two-digit year,2 major,03/26/81
+10187,R05,Birth date has a two-digit year,2 major,10/15/84
+10188,R05,Birth date has a two-digit year,2 major,06/01/64
+10189,R05,Birth date has a two-digit year,2 major,04/14/55
+10190,R05,Birth date has a two-digit year,2 major,02/10/76
+10191,R05,Birth date has a two-digit year,2 major,11/09/72
+10192,R05,Birth date has a two-digit year,2 major,01/19/76
+10193,R05,Birth date has a two-digit year,2 major,08/26/86
+10194,R05,Birth date has a two-digit year,2 major,05/24/79
+10195,R05,Birth date has a two-digit year,2 major,02/16/84
+10196,R05,Birth date has a two-digit year,2 major,09/19/88
+10197,R05,Birth date has a two-digit year,2 major,09/04/83
+10198,R05,Birth date has a two-digit year,2 major,04/05/73
+10199,R05,Birth date has a two-digit year,2 major,07/30/64
+10200,R05,Birth date has a two-digit year,2 major,06/11/70
+10201,R05,Birth date has a two-digit year,2 major,03/11/84
+10202,R05,Birth date has a two-digit year,2 major,07/01/84
+10203,R05,Birth date has a two-digit year,2 major,10/30/69
+10204,R05,Birth date has a two-digit year,2 major,07/30/83
+10205,R05,Birth date has a two-digit year,2 major,05/23/91
+10206,R05,Birth date has a two-digit year,2 major,07/07/84
+10207,R05,Birth date has a two-digit year,2 major,10/07/86
+10208,R05,Birth date has a two-digit year,2 major,11/10/77
+10209,R05,Birth date has a two-digit year,2 major,08/15/68
+10210,R05,Birth date has a two-digit year,2 major,02/12/79
+10211,R05,Birth date has a two-digit year,2 major,09/23/73
+10212,R05,Birth date has a two-digit year,2 major,01/18/52
+10213,R05,Birth date has a two-digit year,2 major,08/17/92
+10214,R05,Birth date has a two-digit year,2 major,05/07/92
+10215,R05,Birth date has a two-digit year,2 major,05/02/89
+10216,R05,Birth date has a two-digit year,2 major,04/18/80
+10217,R05,Birth date has a two-digit year,2 major,03/10/79
+10218,R05,Birth date has a two-digit year,2 major,12/08/83
+10219,R05,Birth date has a two-digit year,2 major,07/07/86
+10220,R05,Birth date has a two-digit year,2 major,09/05/85
+10221,R05,Birth date has a two-digit year,2 major,04/03/75
+10222,R05,Birth date has a two-digit year,2 major,01/04/64
+10223,R05,Birth date has a two-digit year,2 major,12/03/76
+10224,R05,Birth date has a two-digit year,2 major,07/03/72
+10225,R05,Birth date has a two-digit year,2 major,06/19/61
+10226,R05,Birth date has a two-digit year,2 major,12/27/58
+10227,R05,Birth date has a two-digit year,2 major,09/11/72
+10228,R05,Birth date has a two-digit year,2 major,11/24/89
+10229,R05,Birth date has a two-digit year,2 major,12/17/87
+10230,R05,Birth date has a two-digit year,2 major,09/05/81
+10231,R05,Birth date has a two-digit year,2 major,11/27/79
+10232,R05,Birth date has a two-digit year,2 major,06/14/87
+10233,R05,Birth date has a two-digit year,2 major,04/26/86
+10234,R05,Birth date has a two-digit year,2 major,06/30/89
+10235,R05,Birth date has a two-digit year,2 major,08/25/78
+10236,R05,Birth date has a two-digit year,2 major,03/22/66
+10237,R05,Birth date has a two-digit year,2 major,05/25/86
+10238,R05,Birth date has a two-digit year,2 major,11/24/87
+10239,R05,Birth date has a two-digit year,2 major,05/12/80
+10240,R05,Birth date has a two-digit year,2 major,08/27/83
+10241,R05,Birth date has a two-digit year,2 major,05/12/89
+10242,R05,Birth date has a two-digit year,2 major,02/21/74
+10243,R05,Birth date has a two-digit year,2 major,06/18/92
+10244,R05,Birth date has a two-digit year,2 major,11/11/89
+10245,R05,Birth date has a two-digit year,2 major,04/04/86
+10246,R05,Birth date has a two-digit year,2 major,10/23/71
+10247,R05,Birth date has a two-digit year,2 major,05/31/74
+10248,R05,Birth date has a two-digit year,2 major,06/10/86
+10249,R05,Birth date has a two-digit year,2 major,05/09/84
+10250,R05,Birth date has a two-digit year,2 major,01/07/88
+10251,R05,Birth date has a two-digit year,2 major,09/02/82
+10252,R05,Birth date has a two-digit year,2 major,01/12/74
+10253,R05,Birth date has a two-digit year,2 major,07/11/89
+10254,R05,Birth date has a two-digit year,2 major,07/07/84
+10255,R05,Birth date has a two-digit year,2 major,09/22/89
+10256,R05,Birth date has a two-digit year,2 major,10/09/74
+10257,R05,Birth date has a two-digit year,2 major,12/02/83
+10258,R05,Birth date has a two-digit year,2 major,08/28/63
+10259,R05,Birth date has a two-digit year,2 major,09/05/84
+10260,R05,Birth date has a two-digit year,2 major,12/21/74
+10261,R05,Birth date has a two-digit year,2 major,09/08/77
+10262,R05,Birth date has a two-digit year,2 major,09/22/70
+10263,R05,Birth date has a two-digit year,2 major,09/22/78
+10264,R05,Birth date has a two-digit year,2 major,10/02/69
+10265,R05,Birth date has a two-digit year,2 major,07/20/83
+10266,R05,Birth date has a two-digit year,2 major,03/14/85
+10267,R05,Birth date has a two-digit year,2 major,01/16/67
+10268,R05,Birth date has a two-digit year,2 major,09/16/75
+10269,R05,Birth date has a two-digit year,2 major,11/25/78
+10270,R05,Birth date has a two-digit year,2 major,03/15/85
+10271,R05,Birth date has a two-digit year,2 major,08/17/78
+10272,R05,Birth date has a two-digit year,2 major,03/17/66
+10273,R05,Birth date has a two-digit year,2 major,07/06/68
+10274,R05,Birth date has a two-digit year,2 major,11/14/55
+10275,R05,Birth date has a two-digit year,2 major,08/31/81
+10276,R05,Birth date has a two-digit year,2 major,11/15/82
+10277,R05,Birth date has a two-digit year,2 major,04/06/79
+10278,R05,Birth date has a two-digit year,2 major,08/25/82
+10279,R05,Birth date has a two-digit year,2 major,11/07/74
+10280,R05,Birth date has a two-digit year,2 major,09/02/83
+10281,R05,Birth date has a two-digit year,2 major,11/24/79
+10282,R05,Birth date has a two-digit year,2 major,12/17/75
+10283,R05,Birth date has a two-digit year,2 major,08/09/74
+10284,R05,Birth date has a two-digit year,2 major,12/02/78
+10285,R05,Birth date has a two-digit year,2 major,01/07/85
+10286,R05,Birth date has a two-digit year,2 major,03/17/88
+10287,R05,Birth date has a two-digit year,2 major,05/16/83
+10288,R05,Birth date has a two-digit year,2 major,10/05/86
+10289,R05,Birth date has a two-digit year,2 major,11/15/76
+10290,R05,Birth date has a two-digit year,2 major,05/15/87
+10291,R05,Birth date has a two-digit year,2 major,08/16/84
+10292,R05,Birth date has a two-digit year,2 major,08/12/79
+10293,R05,Birth date has a two-digit year,2 major,08/02/80
+10294,R05,Birth date has a two-digit year,2 major,09/21/90
+10295,R05,Birth date has a two-digit year,2 major,06/06/68
+10296,R05,Birth date has a two-digit year,2 major,05/06/89
+10297,R05,Birth date has a two-digit year,2 major,07/18/89
+10298,R05,Birth date has a two-digit year,2 major,06/29/85
+10299,R05,Birth date has a two-digit year,2 major,08/25/89
+10300,R05,Birth date has a two-digit year,2 major,10/12/64
+10301,R05,Birth date has a two-digit year,2 major,05/04/82
+10302,R05,Birth date has a two-digit year,2 major,07/20/68
+10303,R05,Birth date has a two-digit year,2 major,09/30/80
+10304,R05,Birth date has a two-digit year,2 major,05/14/87
+10305,R05,Birth date has a two-digit year,2 major,07/07/75
+10306,R05,Birth date has a two-digit year,2 major,11/02/75
+10307,R05,Birth date has a two-digit year,2 major,05/09/74
+10308,R05,Birth date has a two-digit year,2 major,10/18/89
+10309,R05,Birth date has a two-digit year,2 major,06/18/87
+10310,R05,Birth date has a two-digit year,2 major,04/19/67
+10311,R05,Birth date has a two-digit year,2 major,04/15/88
+10001,R06,Zip code shorter than 5 digits,3 minor,2169
+10002,R06,Zip code shorter than 5 digits,3 minor,1844
+10003,R06,Zip code shorter than 5 digits,3 minor,2031
+10004,R06,Zip code shorter than 5 digits,3 minor,1844
+10005,R06,Zip code shorter than 5 digits,3 minor,1844
+10007,R06,Zip code shorter than 5 digits,3 minor,1886
+10008,R06,Zip code shorter than 5 digits,3 minor,6070
+10009,R06,Zip code shorter than 5 digits,3 minor,1821
+10010,R06,Zip code shorter than 5 digits,3 minor,2067
+10011,R06,Zip code shorter than 5 digits,3 minor,2171
+10014,R06,Zip code shorter than 5 digits,3 minor,2171
+10015,R06,Zip code shorter than 5 digits,3 minor,1460
+10016,R06,Zip code shorter than 5 digits,3 minor,1886
+10017,R06,Zip code shorter than 5 digits,3 minor,2110
+10018,R06,Zip code shorter than 5 digits,3 minor,2451
+10019,R06,Zip code shorter than 5 digits,3 minor,2030
+10020,R06,Zip code shorter than 5 digits,3 minor,1730
+10021,R06,Zip code shorter than 5 digits,3 minor,2478
+10022,R06,Zip code shorter than 5 digits,3 minor,2747
+10023,R06,Zip code shorter than 5 digits,3 minor,2145
+10024,R06,Zip code shorter than 5 digits,3 minor,2140
+10025,R06,Zip code shorter than 5 digits,3 minor,2126
+10026,R06,Zip code shorter than 5 digits,3 minor,1960
+10027,R06,Zip code shorter than 5 digits,3 minor,2045
+10028,R06,Zip code shorter than 5 digits,3 minor,1886
+10029,R06,Zip code shorter than 5 digits,3 minor,2134
+10030,R06,Zip code shorter than 5 digits,3 minor,2359
+10031,R06,Zip code shorter than 5 digits,3 minor,2108
+10032,R06,Zip code shorter than 5 digits,3 minor,1886
+10033,R06,Zip code shorter than 5 digits,3 minor,2045
+10034,R06,Zip code shorter than 5 digits,3 minor,2445
+10035,R06,Zip code shorter than 5 digits,3 minor,2324
+10036,R06,Zip code shorter than 5 digits,3 minor,2128
+10037,R06,Zip code shorter than 5 digits,3 minor,1810
+10038,R06,Zip code shorter than 5 digits,3 minor,1460
+10039,R06,Zip code shorter than 5 digits,3 minor,2330
+10040,R06,Zip code shorter than 5 digits,3 minor,5664
+10043,R06,Zip code shorter than 5 digits,3 minor,2148
+10044,R06,Zip code shorter than 5 digits,3 minor,1420
+10045,R06,Zip code shorter than 5 digits,3 minor,2343
+10046,R06,Zip code shorter than 5 digits,3 minor,2072
+10047,R06,Zip code shorter than 5 digits,3 minor,1420
+10048,R06,Zip code shorter than 5 digits,3 minor,2324
+10049,R06,Zip code shorter than 5 digits,3 minor,2155
+10050,R06,Zip code shorter than 5 digits,3 minor,2451
+10051,R06,Zip code shorter than 5 digits,3 minor,2169
+10052,R06,Zip code shorter than 5 digits,3 minor,2048
+10053,R06,Zip code shorter than 5 digits,3 minor,2330
+10054,R06,Zip code shorter than 5 digits,3 minor,1886
+10055,R06,Zip code shorter than 5 digits,3 minor,1915
+10056,R06,Zip code shorter than 5 digits,3 minor,2110
+10057,R06,Zip code shorter than 5 digits,3 minor,2122
+10058,R06,Zip code shorter than 5 digits,3 minor,2176
+10059,R06,Zip code shorter than 5 digits,3 minor,2176
+10060,R06,Zip code shorter than 5 digits,3 minor,2109
+10061,R06,Zip code shorter than 5 digits,3 minor,2050
+10062,R06,Zip code shorter than 5 digits,3 minor,2199
+10063,R06,Zip code shorter than 5 digits,3 minor,2136
+10064,R06,Zip code shorter than 5 digits,3 minor,2343
+10065,R06,Zip code shorter than 5 digits,3 minor,2155
+10066,R06,Zip code shorter than 5 digits,3 minor,2747
+10067,R06,Zip code shorter than 5 digits,3 minor,2763
+10068,R06,Zip code shorter than 5 digits,3 minor,2346
+10069,R06,Zip code shorter than 5 digits,3 minor,2169
+10070,R06,Zip code shorter than 5 digits,3 minor,1810
+10071,R06,Zip code shorter than 5 digits,3 minor,2191
+10072,R06,Zip code shorter than 5 digits,3 minor,2030
+10073,R06,Zip code shorter than 5 digits,3 minor,2176
+10074,R06,Zip code shorter than 5 digits,3 minor,2155
+10075,R06,Zip code shorter than 5 digits,3 minor,2021
+10076,R06,Zip code shorter than 5 digits,3 minor,2149
+10077,R06,Zip code shorter than 5 digits,3 minor,2324
+10078,R06,Zip code shorter than 5 digits,3 minor,2492
+10079,R06,Zip code shorter than 5 digits,3 minor,2056
+10080,R06,Zip code shorter than 5 digits,3 minor,2050
+10081,R06,Zip code shorter than 5 digits,3 minor,2468
+10082,R06,Zip code shorter than 5 digits,3 minor,1886
+10083,R06,Zip code shorter than 5 digits,3 minor,6278
+10084,R06,Zip code shorter than 5 digits,3 minor,2148
+10085,R06,Zip code shorter than 5 digits,3 minor,2132
+10086,R06,Zip code shorter than 5 digits,3 minor,2056
+10087,R06,Zip code shorter than 5 digits,3 minor,1810
+10088,R06,Zip code shorter than 5 digits,3 minor,1886
+10089,R06,Zip code shorter than 5 digits,3 minor,1902
+10090,R06,Zip code shorter than 5 digits,3 minor,2451
+10091,R06,Zip code shorter than 5 digits,3 minor,2149
+10092,R06,Zip code shorter than 5 digits,3 minor,1890
+10093,R06,Zip code shorter than 5 digits,3 minor,2143
+10094,R06,Zip code shorter than 5 digits,3 minor,2189
+10095,R06,Zip code shorter than 5 digits,3 minor,1851
+10096,R06,Zip code shorter than 5 digits,3 minor,2122
+10097,R06,Zip code shorter than 5 digits,3 minor,2324
+10098,R06,Zip code shorter than 5 digits,3 minor,1752
+10099,R06,Zip code shorter than 5 digits,3 minor,5473
+10100,R06,Zip code shorter than 5 digits,3 minor,2343
+10101,R06,Zip code shorter than 5 digits,3 minor,2472
+10102,R06,Zip code shorter than 5 digits,3 minor,2451
+10104,R06,Zip code shorter than 5 digits,3 minor,1040
+10105,R06,Zip code shorter than 5 digits,3 minor,1731
+10106,R06,Zip code shorter than 5 digits,3 minor,2090
+10107,R06,Zip code shorter than 5 digits,3 minor,2148
+10108,R06,Zip code shorter than 5 digits,3 minor,2045
+10110,R06,Zip code shorter than 5 digits,3 minor,2135
+10111,R06,Zip code shorter than 5 digits,3 minor,1905
+10112,R06,Zip code shorter than 5 digits,3 minor,2493
+10113,R06,Zip code shorter than 5 digits,3 minor,2169
+10114,R06,Zip code shorter than 5 digits,3 minor,1902
+10115,R06,Zip code shorter than 5 digits,3 minor,1701
+10116,R06,Zip code shorter than 5 digits,3 minor,2045
+10117,R06,Zip code shorter than 5 digits,3 minor,2747
+10118,R06,Zip code shorter than 5 digits,3 minor,1960
+10119,R06,Zip code shorter than 5 digits,3 minor,2360
+10120,R06,Zip code shorter than 5 digits,3 minor,1460
+10122,R06,Zip code shorter than 5 digits,3 minor,2330
+10123,R06,Zip code shorter than 5 digits,3 minor,2093
+10125,R06,Zip code shorter than 5 digits,3 minor,2127
+10126,R06,Zip code shorter than 5 digits,3 minor,2132
+10127,R06,Zip code shorter than 5 digits,3 minor,2453
+10128,R06,Zip code shorter than 5 digits,3 minor,1760
+10129,R06,Zip code shorter than 5 digits,3 minor,2149
+10130,R06,Zip code shorter than 5 digits,3 minor,2030
+10131,R06,Zip code shorter than 5 digits,3 minor,2045
+10132,R06,Zip code shorter than 5 digits,3 minor,1821
+10133,R06,Zip code shorter than 5 digits,3 minor,2119
+10134,R06,Zip code shorter than 5 digits,3 minor,1460
+10135,R06,Zip code shorter than 5 digits,3 minor,1810
+10136,R06,Zip code shorter than 5 digits,3 minor,2324
+10137,R06,Zip code shorter than 5 digits,3 minor,1770
+10138,R06,Zip code shorter than 5 digits,3 minor,2446
+10139,R06,Zip code shorter than 5 digits,3 minor,1775
+10141,R06,Zip code shorter than 5 digits,3 minor,2066
+10143,R06,Zip code shorter than 5 digits,3 minor,2458
+10144,R06,Zip code shorter than 5 digits,3 minor,2169
+10145,R06,Zip code shorter than 5 digits,3 minor,2184
+10146,R06,Zip code shorter than 5 digits,3 minor,2129
+10147,R06,Zip code shorter than 5 digits,3 minor,2703
+10148,R06,Zip code shorter than 5 digits,3 minor,2351
+10149,R06,Zip code shorter than 5 digits,3 minor,2703
+10150,R06,Zip code shorter than 5 digits,3 minor,2184
+10151,R06,Zip code shorter than 5 digits,3 minor,2048
+10152,R06,Zip code shorter than 5 digits,3 minor,2478
+10153,R06,Zip code shorter than 5 digits,3 minor,1844
+10154,R06,Zip code shorter than 5 digits,3 minor,1845
+10155,R06,Zip code shorter than 5 digits,3 minor,2176
+10156,R06,Zip code shorter than 5 digits,3 minor,2301
+10157,R06,Zip code shorter than 5 digits,3 minor,2130
+10158,R06,Zip code shorter than 5 digits,3 minor,1776
+10159,R06,Zip code shorter than 5 digits,3 minor,2145
+10160,R06,Zip code shorter than 5 digits,3 minor,1742
+10162,R06,Zip code shorter than 5 digits,3 minor,1886
+10163,R06,Zip code shorter than 5 digits,3 minor,2170
+10164,R06,Zip code shorter than 5 digits,3 minor,2451
+10166,R06,Zip code shorter than 5 digits,3 minor,2170
+10167,R06,Zip code shorter than 5 digits,3 minor,3062
+10168,R06,Zip code shorter than 5 digits,3 minor,2044
+10169,R06,Zip code shorter than 5 digits,3 minor,2154
+10170,R06,Zip code shorter than 5 digits,3 minor,2127
+10171,R06,Zip code shorter than 5 digits,3 minor,2176
+10172,R06,Zip code shorter than 5 digits,3 minor,1887
+10173,R06,Zip code shorter than 5 digits,3 minor,2134
+10174,R06,Zip code shorter than 5 digits,3 minor,2302
+10175,R06,Zip code shorter than 5 digits,3 minor,1901
+10176,R06,Zip code shorter than 5 digits,3 minor,1801
+10177,R06,Zip code shorter than 5 digits,3 minor,1701
+10178,R06,Zip code shorter than 5 digits,3 minor,2110
+10179,R06,Zip code shorter than 5 digits,3 minor,1773
+10180,R06,Zip code shorter than 5 digits,3 minor,1545
+10181,R06,Zip code shorter than 5 digits,3 minor,1890
+10182,R06,Zip code shorter than 5 digits,3 minor,2170
+10183,R06,Zip code shorter than 5 digits,3 minor,2124
+10184,R06,Zip code shorter than 5 digits,3 minor,1013
+10185,R06,Zip code shorter than 5 digits,3 minor,2421
+10186,R06,Zip code shorter than 5 digits,3 minor,1886
+10187,R06,Zip code shorter than 5 digits,3 minor,1742
+10189,R06,Zip code shorter than 5 digits,3 minor,2176
+10190,R06,Zip code shorter than 5 digits,3 minor,2459
+10191,R06,Zip code shorter than 5 digits,3 minor,1938
+10192,R06,Zip code shorter than 5 digits,3 minor,1887
+10193,R06,Zip code shorter than 5 digits,3 minor,1810
+10194,R06,Zip code shorter than 5 digits,3 minor,2110
+10195,R06,Zip code shorter than 5 digits,3 minor,2445
+10196,R06,Zip code shorter than 5 digits,3 minor,1810
+10197,R06,Zip code shorter than 5 digits,3 minor,2045
+10198,R06,Zip code shorter than 5 digits,3 minor,2481
+10199,R06,Zip code shorter than 5 digits,3 minor,6033
+10201,R06,Zip code shorter than 5 digits,3 minor,2021
+10203,R06,Zip code shorter than 5 digits,3 minor,2043
+10204,R06,Zip code shorter than 5 digits,3 minor,1876
+10206,R06,Zip code shorter than 5 digits,3 minor,2132
+10207,R06,Zip code shorter than 5 digits,3 minor,2125
+10208,R06,Zip code shorter than 5 digits,3 minor,1721
+10209,R06,Zip code shorter than 5 digits,3 minor,2718
+10210,R06,Zip code shorter than 5 digits,3 minor,2170
+10211,R06,Zip code shorter than 5 digits,3 minor,1749
+10212,R06,Zip code shorter than 5 digits,3 minor,6033
+10213,R06,Zip code shorter than 5 digits,3 minor,1450
+10214,R06,Zip code shorter than 5 digits,3 minor,2351
+10215,R06,Zip code shorter than 5 digits,3 minor,2110
+10216,R06,Zip code shorter than 5 digits,3 minor,1550
+10217,R06,Zip code shorter than 5 digits,3 minor,2050
+10218,R06,Zip code shorter than 5 digits,3 minor,1824
+10219,R06,Zip code shorter than 5 digits,3 minor,2189
+10220,R06,Zip code shorter than 5 digits,3 minor,2170
+10221,R06,Zip code shorter than 5 digits,3 minor,1801
+10222,R06,Zip code shorter than 5 digits,3 minor,1915
+10223,R06,Zip code shorter than 5 digits,3 minor,2127
+10224,R06,Zip code shorter than 5 digits,3 minor,2138
+10225,R06,Zip code shorter than 5 digits,3 minor,2109
+10226,R06,Zip code shorter than 5 digits,3 minor,2027
+10227,R06,Zip code shorter than 5 digits,3 minor,2081
+10228,R06,Zip code shorter than 5 digits,3 minor,2135
+10229,R06,Zip code shorter than 5 digits,3 minor,2452
+10230,R06,Zip code shorter than 5 digits,3 minor,1902
+10232,R06,Zip code shorter than 5 digits,3 minor,1886
+10233,R06,Zip code shorter than 5 digits,3 minor,2062
+10234,R06,Zip code shorter than 5 digits,3 minor,2134
+10235,R06,Zip code shorter than 5 digits,3 minor,2045
+10236,R06,Zip code shorter than 5 digits,3 minor,1778
+10237,R06,Zip code shorter than 5 digits,3 minor,1886
+10238,R06,Zip code shorter than 5 digits,3 minor,1450
+10239,R06,Zip code shorter than 5 digits,3 minor,2110
+10240,R06,Zip code shorter than 5 digits,3 minor,1775
+10242,R06,Zip code shorter than 5 digits,3 minor,2062
+10243,R06,Zip code shorter than 5 digits,3 minor,2451
+10245,R06,Zip code shorter than 5 digits,3 minor,2026
+10246,R06,Zip code shorter than 5 digits,3 minor,2127
+10247,R06,Zip code shorter than 5 digits,3 minor,2026
+10248,R06,Zip code shorter than 5 digits,3 minor,2176
+10249,R06,Zip code shorter than 5 digits,3 minor,2126
+10250,R06,Zip code shorter than 5 digits,3 minor,1886
+10251,R06,Zip code shorter than 5 digits,3 minor,1776
+10252,R06,Zip code shorter than 5 digits,3 minor,1902
+10253,R06,Zip code shorter than 5 digits,3 minor,4063
+10254,R06,Zip code shorter than 5 digits,3 minor,2453
+10256,R06,Zip code shorter than 5 digits,3 minor,1864
+10257,R06,Zip code shorter than 5 digits,3 minor,2121
+10258,R06,Zip code shorter than 5 digits,3 minor,6050
+10259,R06,Zip code shorter than 5 digits,3 minor,2747
+10260,R06,Zip code shorter than 5 digits,3 minor,2148
+10261,R06,Zip code shorter than 5 digits,3 minor,2452
+10262,R06,Zip code shorter than 5 digits,3 minor,2474
+10263,R06,Zip code shorter than 5 digits,3 minor,1824
+10264,R06,Zip code shorter than 5 digits,3 minor,2109
+10265,R06,Zip code shorter than 5 digits,3 minor,1810
+10266,R06,Zip code shorter than 5 digits,3 minor,2301
+10267,R06,Zip code shorter than 5 digits,3 minor,2210
+10268,R06,Zip code shorter than 5 digits,3 minor,2472
+10269,R06,Zip code shorter than 5 digits,3 minor,2169
+10270,R06,Zip code shorter than 5 digits,3 minor,1778
+10271,R06,Zip code shorter than 5 digits,3 minor,1730
+10272,R06,Zip code shorter than 5 digits,3 minor,2908
+10273,R06,Zip code shorter than 5 digits,3 minor,6040
+10274,R06,Zip code shorter than 5 digits,3 minor,2478
+10275,R06,Zip code shorter than 5 digits,3 minor,1752
+10276,R06,Zip code shorter than 5 digits,3 minor,2180
+10277,R06,Zip code shorter than 5 digits,3 minor,2452
+10278,R06,Zip code shorter than 5 digits,3 minor,2050
+10279,R06,Zip code shorter than 5 digits,3 minor,2451
+10280,R06,Zip code shorter than 5 digits,3 minor,2129
+10281,R06,Zip code shorter than 5 digits,3 minor,1760
+10282,R06,Zip code shorter than 5 digits,3 minor,1803
+10283,R06,Zip code shorter than 5 digits,3 minor,2062
+10284,R06,Zip code shorter than 5 digits,3 minor,2351
+10285,R06,Zip code shorter than 5 digits,3 minor,1460
+10286,R06,Zip code shorter than 5 digits,3 minor,2458
+10287,R06,Zip code shorter than 5 digits,3 minor,2021
+10288,R06,Zip code shorter than 5 digits,3 minor,2134
+10289,R06,Zip code shorter than 5 digits,3 minor,2128
+10290,R06,Zip code shorter than 5 digits,3 minor,1749
+10291,R06,Zip code shorter than 5 digits,3 minor,1886
+10292,R06,Zip code shorter than 5 digits,3 minor,1880
+10293,R06,Zip code shorter than 5 digits,3 minor,1887
+10294,R06,Zip code shorter than 5 digits,3 minor,2171
+10295,R06,Zip code shorter than 5 digits,3 minor,1801
+10296,R06,Zip code shorter than 5 digits,3 minor,2458
+10297,R06,Zip code shorter than 5 digits,3 minor,2472
+10298,R06,Zip code shorter than 5 digits,3 minor,2472
+10299,R06,Zip code shorter than 5 digits,3 minor,2133
+10300,R06,Zip code shorter than 5 digits,3 minor,2128
+10301,R06,Zip code shorter than 5 digits,3 minor,2458
+10302,R06,Zip code shorter than 5 digits,3 minor,2093
+10303,R06,Zip code shorter than 5 digits,3 minor,2152
+10305,R06,Zip code shorter than 5 digits,3 minor,2330
+10308,R06,Zip code shorter than 5 digits,3 minor,2132
+10309,R06,Zip code shorter than 5 digits,3 minor,2138
+10310,R06,Zip code shorter than 5 digits,3 minor,2061
+10311,R06,Zip code shorter than 5 digits,3 minor,2138
+10026,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10034,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10038,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10039,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10066,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10067,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10068,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10081,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 3.0
+10095,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10096,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10117,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10120,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10125,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10132,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10147,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10152,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10153,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10159,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10182,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10183,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10186,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10192,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10195,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 30.0
+10238,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10260,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10280,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10281,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10294,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10299,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10044,R08,Salary outlier within position (robust z > 3.5),2 major,Network Engineer: 75281
+10045,R08,Salary outlier within position (robust z > 3.5),2 major,Network Engineer: 76029

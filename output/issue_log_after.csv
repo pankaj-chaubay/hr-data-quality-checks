@@ -1,0 +1,32 @@
+EmpID,rule_id,rule,severity,value
+10026,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10034,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10038,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10039,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10066,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10067,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10068,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10081,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 3.0
+10095,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10096,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10117,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10120,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10125,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10132,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10147,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10152,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10153,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10159,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10182,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10183,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10186,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10192,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10195,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 30.0
+10238,R07,Manager name has more than one manager ID,2 major,Brandon R. LeBlanc -> 1.0
+10260,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10280,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10281,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10294,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10299,R07,Manager name has more than one manager ID,2 major,Michael Albert -> 22.0
+10044,R08,Salary outlier within position (robust z > 3.5),2 major,Network Engineer: 75281
+10045,R08,Salary outlier within position (robust z > 3.5),2 major,Network Engineer: 76029
